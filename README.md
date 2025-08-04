@@ -81,4 +81,6 @@ Based on the analysis and model results:
 
 4. Public health campaigns should emphasize early diagnosis and prevention.
 
+# Medium Article
+https://medium.com/@agbaoyeadedeji78/diabetes-prediction-using-machine-learning-classification-approaches-a-capstone-project-by-team-cbd0b784a30b
 
